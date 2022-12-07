@@ -16,7 +16,7 @@ function LandingPage() {
           Choose your own tragedy
         </h4>
         <a
-          href="https://apple.com"
+          href="https://apps.apple.com/us/app/lotto-97/id6444911983"
           target="_blank"
           rel="noopener noreferrer"
         >

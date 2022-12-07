@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bf8a566.css",
+    "main.js": "/static/js/main.89664474.js",
+    "static/js/787.6103b9e5.chunk.js": "/static/js/787.6103b9e5.chunk.js",
+    "static/media/smileberry-xl.png": "/static/media/smileberry-xl.3d4a412d570bc07ab6c9.png",
+    "static/media/download-on-appstore.svg": "/static/media/download-on-appstore.969642b47a537eefe45f64aaa42f530b.svg",
+    "static/media/privacy-policy.svg": "/static/media/privacy-policy.82ef06ac9791c7ddbc4a4d8a935c0094.svg",
+    "index.html": "/index.html",
+    "static/media/privacy.md": "/static/media/privacy.e994a6592f0f82b39dc8.md",
+    "main.0bf8a566.css.map": "/static/css/main.0bf8a566.css.map",
+    "main.89664474.js.map": "/static/js/main.89664474.js.map",
+    "787.6103b9e5.chunk.js.map": "/static/js/787.6103b9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf8a566.css",
+    "static/js/main.89664474.js"
+  ]
+}
