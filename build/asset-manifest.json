@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0bf8a566.css",
-    "main.js": "/static/js/main.89664474.js",
+    "main.js": "/static/js/main.4cb9abbd.js",
     "static/js/787.6103b9e5.chunk.js": "/static/js/787.6103b9e5.chunk.js",
     "static/media/smileberry-xl.png": "/static/media/smileberry-xl.3d4a412d570bc07ab6c9.png",
     "static/media/download-on-appstore.svg": "/static/media/download-on-appstore.969642b47a537eefe45f64aaa42f530b.svg",
@@ -9,11 +9,11 @@
     "index.html": "/index.html",
     "static/media/privacy.md": "/static/media/privacy.e994a6592f0f82b39dc8.md",
     "main.0bf8a566.css.map": "/static/css/main.0bf8a566.css.map",
-    "main.89664474.js.map": "/static/js/main.89664474.js.map",
+    "main.4cb9abbd.js.map": "/static/js/main.4cb9abbd.js.map",
     "787.6103b9e5.chunk.js.map": "/static/js/787.6103b9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bf8a566.css",
-    "static/js/main.89664474.js"
+    "static/js/main.4cb9abbd.js"
   ]
 }
