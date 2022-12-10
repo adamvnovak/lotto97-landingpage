@@ -13,7 +13,7 @@ function LandingPage() {
       </header>
       <header className="App-header-2">
         <h4>
-          Choose your own tragedy
+          Choose your own hardship
         </h4>
         <a
           href="https://apps.apple.com/app/apple-store/id6444911983"
